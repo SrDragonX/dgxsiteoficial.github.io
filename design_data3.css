@@ -1,0 +1,94 @@
+ .data-texto {
+
+    position: relative;
+    left: 50px;
+    top: 40px ;
+    color: #ffffff;
+    font-size : 15px;
+    text-align: justify;
+    
+}
+
+.data-texto2 {
+
+    position: relative;
+    left: 50px;
+    top: 140px ;
+    color: #ffffff;
+    font-size : 15px;
+    text-align: start;
+    
+}
+
+.data-texto3 {
+
+    position: relative;
+    left: 50px;
+    top: 500px ;
+    color: #ffffff;
+    font-size : 15px;
+    text-align: justify;
+    
+}
+
+.custom-button {
+        
+        position: absolute;
+            background-color: #7a00ff; /* Cor de fundo */
+            border: 2px solid #ffffff; /* Sem borda */
+            color: white; /* Cor do texto */            padding: 15px 32px; /* Espaçamento interno */
+            text-align: center; /* Alinhamento do texto */
+            text-decoration: none; /* Sem sublinhado */
+            display: inline-block; /* Exibição inline-block */
+            font-size: 16px; /* Tamanho da fonte */
+            margin: 4px 2px; /* Margens */
+            cursor: pointer; /* Cursor pointer ao passar por cima */
+            border-radius: 40px; /* Bordas arredondadas */
+            transition: background-color 0.3s; /* Transição suave para mudanças de cor */
+  
+   left: 105px;
+  top: 700px;
+  
+        }
+        
+        .custom-button:hover {
+            background-color: #3f009e; /* Cor de fundo ao passar o mouse */
+  
+ 
+}
+  
+  
+  .break_word3 {
+ 
+  position: absolute;
+    word-wrap: break-word;
+    width: 23ch
+ 
+  }
+  
+  
+  .break_word2 {
+ 
+  position: absolute;
+    word-wrap: break-word;
+    width: 23ch
+ 
+ }  
+ 
+ .break_word {
+ 
+  position: absolute;
+    word-wrap: break-word;
+    width: 23ch
+ }
+ 
+.minha-imagem2{
+position: absolute;  
+border: 0px solid #ffffff ; 
+border-radius: 20px; 
+
+top: 620px;
+left: 60px; 
+height: 50px;  
+width: 280px; 
+
