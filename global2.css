@@ -87,8 +87,29 @@
 position: absolute;  
 border: 5px solid #ffffff ; 
 border-radius: 40px; 
+
 top: 420px;
 left: 90px; 
 height: 190px;  
 width: 200px; 
 }
+
+
+
+.linktext{ 
+  
+  position: relative;
+  left: 130px;
+  top: 390px;
+  color: #FF0000;
+  
+}
+
+.datatextN{
+  
+  position: absolute;
+  left: 110px;
+  top: 770px;
+  color: #FFFFFF;
+  
+ }
